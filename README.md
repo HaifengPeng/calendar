@@ -1,5 +1,5 @@
 # calendar
-A calendar jQuery plugin.
+jQuery日历插件
 
 ##用法
 * 在头部引入css文件
@@ -27,5 +27,5 @@ $("#calendar").Calendar({
 lang除非设置为`'en'`,语言设为英文，否则语言为中文
 
 ##函数
-* `$.Calendar.getCurDate()`: 当前日期，yyyy-mm-dd
-* `$.Calendar.getCurUnixTimestamp()`: 当前日期的Unix时间戳
+* `$.Calendar.getCurDate()`: 获取当前日期，yyyy-mm-dd
+* `$.Calendar.getCurUnixTimestamp()`: 获取当前日期的Unix时间戳
