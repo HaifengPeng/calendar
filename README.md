@@ -5,11 +5,11 @@ jQuery日历插件
 
 ##用法
 * 在头部引入css文件
-```javascript
+```html
 <link rel="stylesheet" href="your path/calendar.css" />
 ```
 * 引入jquery和calendar js文件
-```javascript
+```html
 <script type="text/javascript" src="your path/jquery.js" ></script>
 <script type="text/javascript" src="your path/calendar.js" ></script>
 ```
