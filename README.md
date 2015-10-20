@@ -1,6 +1,8 @@
 # calendar
 jQuery日历插件
 
+[查看calendar介绍页](http://haifengpeng.github.io/calendar/)
+
 ##用法
 * 在头部引入css文件
 ```javascript
